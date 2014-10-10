@@ -1,0 +1,24 @@
+_PairTX: CODE, 1611 0 56
+_getValue: CODE, 1290 0 21
+__stringtab: STRING, 2 0 6
+_Sendbit: CODE, 1274 0 16
+_EEPROM_getc: CODE, 1230 0 14
+_mType: STRING, 12 0 1
+_EEPROM_putc: CODE, 1434 0 39
+_ConfigureOscillator: CODE, 1259 0 15
+_SendCTRL: CODE, 1395 0 39
+_main: CODE, 1834 0 214
+_GenAddr: CODE, 1514 0 47
+_TXData: CODE, 1667 0 58
+_InitApp: CODE, 1334 0 28
+__initialization: CODE, 1219 0 8
+_StopTX: CODE, 1244 0 15
+_doPair: CODE, 1725 0 109
+_GetAddr: CODE, 1311 0 23
+_SendFSK: CODE, 1362 0 33
+_mIpu: STRING, 8 0 4
+_SendManFSK: CODE, 1473 0 41
+_WaitFSK: CODE, 1206 0 5
+_StartTX: CODE, 1211 0 8
+_InitRadio: CODE, 1561 0 50
+Total: 850
