@@ -38,7 +38,7 @@ EnviR Output
 ------------
 The XML output from the EnviR should be something like:
 
-<msg><src>CC128-v1.29</src><dsb>00759</dsb><time>19:09:09</time><tmpr>20.7</tmpr><sensor>8</sensor><id>12345</id><type>4</type><imp>0989912344</imp><ipu>0001</ipu></msg>
+`<msg><src>CC128-v1.29</src><dsb>00759</dsb><time>19:09:09</time><tmpr>20.7</tmpr><sensor>8</sensor><id>12345</id><type>4</type><imp>0989912344</imp><ipu>0001</ipu></msg>`
 
 The value in the <imp> tag will be the decimal equivalent of whatever was
 transmitted by this code.
